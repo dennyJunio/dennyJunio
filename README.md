@@ -1,4 +1,4 @@
-### Oi. Eu sou Denny Junio
+### Oi! Eu sou Denny Junio
 
 - 🔭 Ainda não trabalho com nada
 - 🌱 Estudando JS
